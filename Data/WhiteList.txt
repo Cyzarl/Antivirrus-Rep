@@ -1,0 +1,24 @@
+E:\BeyondBlue\Beyond Blue_Data\boot.config
+E:\BeyondBlue\Beyond Blue_Data\RuntimeInitializeOnLoads.json
+E:\BeyondBlue\Beyond Blue_Data\ScriptingAssemblies.json
+E:\BeyondBlue\Beyond Blue_Data\Plugins\Steamworks.NET.txt
+E:\BeyondBlue\Beyond Blue_Data\StreamingAssets\aa\catalog.json
+E:\BeyondBlue\Beyond Blue_Data\StreamingAssets\aa\settings.json
+E:\BeyondBlue\MonoBleedingEdge\etc\mono\2.0\machine.config
+E:\BeyondBlue\MonoBleedingEdge\etc\mono\2.0\web.config
+E:\BeyondBlue\MonoBleedingEdge\etc\mono\4.0\machine.config
+E:\BeyondBlue\MonoBleedingEdge\etc\mono\4.0\web.config
+E:\BeyondBlue\MonoBleedingEdge\etc\mono\4.5\machine.config
+E:\BeyondBlue\MonoBleedingEdge\etc\mono\4.5\web.config
+E:\Dragons Dogma Dark Arisen\nativePC\Cleaner UI 0.51-871-0-51-1684087407.arc.txt
+E:\Dragons Dogma Dark Arisen\nativePC\result.arc.txt
+E:\Dragons Dogma Dark Arisen\nativePC\vortex.deployment.json
+E:\PArrot\PAerrot.txt
+E:\TOWSpacersChoice\Manifest_DebugFiles_Win64.txt
+E:\TOWSpacersChoice\Manifest_NonUFSFiles_Win64.txt
+E:\TOWSpacersChoice\Indiana\Content\Exported\BaseGame\Design\MapTransitions\MapTransitions.json
+E:\TOWSpacersChoice\Indiana\Content\Exported\INX1\Design\Manifests\PerforceTemp.txt
+E:\TOWSpacersChoice\Indiana\Content\Exported\INX1\Design\MapTransitions\MapTransitions.json
+E:\TOWSpacersChoice\Indiana\Content\Exported\INX1\Localized\EN\VO\PerforceTemp.txt
+C:\Users\rober\Desktop\Importantes\Tareasv2\Redaccion\archivo_malicioso.txt
+C:\Users\rober\Desktop\Importantes\Tareasv2\Redaccion\Datos sobre la tarea.txt
