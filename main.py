@@ -8,7 +8,7 @@ import time
 
 if __name__ == '__main__':
 
-    API_Key = 'b6642e6e0d13813cac0494ce4b7a3dba5dfff792bfffc9f64bad038ff2ac8f45'
+    API_Key = 'YourAPIKeyHere'
     SafeBrowsingAPIG = 'AIzaSyCnkuMdt-S6SPlvbDBQ8-EQtFupz0sdmD8'
 
     HashDataRoute = 'Data/BaseDatosHash.txt'
